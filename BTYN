@@ -1,0 +1,7 @@
+def bool(b):
+  return "Yes" if b else "No"
+result=bool(True)
+print(result)
+result=bool(False)
+print(result)
+
